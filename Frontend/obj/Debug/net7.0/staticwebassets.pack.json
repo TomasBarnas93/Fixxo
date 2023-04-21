@@ -1,0 +1,93 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Visual Studio\\Inlämningsuppgift\\Fixxo\\Frontend\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\Visual Studio\\Inlämningsuppgift\\Fixxo\\Frontend\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\Visual Studio\\Inlämningsuppgift\\Fixxo\\Frontend\\wwwroot\\images\\black_coat.png",
+      "PackagePath": "staticwebassets\\images\\black_coat.png"
+    },
+    {
+      "Id": "E:\\Visual Studio\\Inlämningsuppgift\\Fixxo\\Frontend\\wwwroot\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\images\\favicon.ico"
+    },
+    {
+      "Id": "E:\\Visual Studio\\Inlämningsuppgift\\Fixxo\\Frontend\\wwwroot\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\images\\logo.svg"
+    },
+    {
+      "Id": "E:\\Visual Studio\\Inlämningsuppgift\\Fixxo\\Frontend\\wwwroot\\images\\office-style.png",
+      "PackagePath": "staticwebassets\\images\\office-style.png"
+    },
+    {
+      "Id": "E:\\Visual Studio\\Inlämningsuppgift\\Fixxo\\Frontend\\wwwroot\\images\\party-style.png",
+      "PackagePath": "staticwebassets\\images\\party-style.png"
+    },
+    {
+      "Id": "E:\\Visual Studio\\Inlämningsuppgift\\Fixxo\\Frontend\\wwwroot\\images\\placeholders\\120x113.svg",
+      "PackagePath": "staticwebassets\\images\\placeholders\\120x113.svg"
+    },
+    {
+      "Id": "E:\\Visual Studio\\Inlämningsuppgift\\Fixxo\\Frontend\\wwwroot\\images\\placeholders\\1920x300.svg",
+      "PackagePath": "staticwebassets\\images\\placeholders\\1920x300.svg"
+    },
+    {
+      "Id": "E:\\Visual Studio\\Inlämningsuppgift\\Fixxo\\Frontend\\wwwroot\\images\\placeholders\\200x122.svg",
+      "PackagePath": "staticwebassets\\images\\placeholders\\200x122.svg"
+    },
+    {
+      "Id": "E:\\Visual Studio\\Inlämningsuppgift\\Fixxo\\Frontend\\wwwroot\\images\\placeholders\\270x295.svg",
+      "PackagePath": "staticwebassets\\images\\placeholders\\270x295.svg"
+    },
+    {
+      "Id": "E:\\Visual Studio\\Inlämningsuppgift\\Fixxo\\Frontend\\wwwroot\\images\\placeholders\\369x310.svg",
+      "PackagePath": "staticwebassets\\images\\placeholders\\369x310.svg"
+    },
+    {
+      "Id": "E:\\Visual Studio\\Inlämningsuppgift\\Fixxo\\Frontend\\wwwroot\\images\\placeholders\\370x295.svg",
+      "PackagePath": "staticwebassets\\images\\placeholders\\370x295.svg"
+    },
+    {
+      "Id": "E:\\Visual Studio\\Inlämningsuppgift\\Fixxo\\Frontend\\wwwroot\\images\\placeholders\\469x356.svg",
+      "PackagePath": "staticwebassets\\images\\placeholders\\469x356.svg"
+    },
+    {
+      "Id": "E:\\Visual Studio\\Inlämningsuppgift\\Fixxo\\Frontend\\wwwroot\\images\\placeholders\\501x430.svg",
+      "PackagePath": "staticwebassets\\images\\placeholders\\501x430.svg"
+    },
+    {
+      "Id": "E:\\Visual Studio\\Inlämningsuppgift\\Fixxo\\Frontend\\wwwroot\\images\\placeholders\\625x647.svg",
+      "PackagePath": "staticwebassets\\images\\placeholders\\625x647.svg"
+    },
+    {
+      "Id": "E:\\Visual Studio\\Inlämningsuppgift\\Fixxo\\Frontend\\wwwroot\\images\\showcase-img.png",
+      "PackagePath": "staticwebassets\\images\\showcase-img.png"
+    },
+    {
+      "Id": "E:\\Visual Studio\\Inlämningsuppgift\\Fixxo\\Frontend\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Frontend.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Frontend.props",
+      "PackagePath": "build\\Frontend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Frontend.props",
+      "PackagePath": "buildMultiTargeting\\Frontend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Frontend.props",
+      "PackagePath": "buildTransitive\\Frontend.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
